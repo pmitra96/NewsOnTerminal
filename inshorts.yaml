@@ -1,0 +1,22 @@
+session_name: news
+windows:
+- window_name: news window
+  layout: tiled
+  shell_command_before:
+    - cd /Users/bavanari.m/Desktop/Inshorts-API
+  panes:
+    - shell_command:
+        - tail -f -n 300 science.txt
+    - shell_command:
+        - tail -f -n 300 politics.txt
+    - shell_command:
+        - tail -f -n 300 world.txt
+    - shell_command:
+        - tail -f -n 300 startup.txt
+    - shell_command:
+        - tail -f -n 300 technology.txt
+    - shell_command:
+        - tail -f -n 300 national.txt
+    - shell_command:
+        - n
+
