@@ -32,7 +32,7 @@ if you are virtualenv wrapper , workon virtualenv and then run these commands
     ```
 news will be written to `category.txt` ex: national.txt
 
-You can awesomify the same by using tmux or screen 
-you can automate the awesomification by using tmuxp
-For more categories read api_readme.md file
+- You can awesomify the same by using tmux or screen 
+- you can automate the awesomification by using tmuxp
+- For more categories read api_readme.md file
 ![screenshot](news.png "Final news on terminal")
