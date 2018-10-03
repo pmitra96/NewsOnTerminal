@@ -35,4 +35,5 @@ news will be written to `category.txt` ex: national.txt
 - You can awesomify the same by using tmux or screen 
 - you can automate the awesomification by using tmuxp
 - For more categories read api_readme.md file
+- find the final awesomified output below 
 ![screenshot](news.png "Final news on terminal")
